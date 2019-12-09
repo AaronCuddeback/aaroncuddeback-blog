@@ -14,7 +14,7 @@ sections:
       am striving to become a Full Stack Programmer. I am always willing to talk
       about programming and projects that I may be helpful with. Please don't
       hesitate to get in touch if you want. You can also check out my online
-      resume [here](https://aaroncuddeback.com/csv).
+      resume [here](https://csv.aaroncuddeback.com/).
 
 
       This site is open source and can be viewed at my
