@@ -5,7 +5,7 @@ import _ from 'lodash';
 import {safePrefix} from '../utils';
 import Header from './Header';
 import Footer from './Footer';
-import favicon from "../static/images/favicon.png";
+import favicon from "../../static/images/favicon.png";
 
 export default class Body extends React.Component {
     render() {
