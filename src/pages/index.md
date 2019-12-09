@@ -10,10 +10,16 @@ sections:
         url: /contact
     component: ContentBlock
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      I’m Aaron Cuddeback, a Developer who is learning software development. I
+      am striving to become a Full Stack Programmer. I am always willing to talk
+      about programming and projects that I may be helpful with. Please don't
+      hesitate to get in touch if you want. You can also check out my online
+      resume [here](https://aaroncuddeback.com/csv).
+
+
+      This site is open source and can be viewed at my
+      [Github](https://github.com/aaroncuddeback). This whole site is built on
+      [GatsbyJS](https://gatsbyjs.com)
     section_id: about
     title: About
     type: contentblock
