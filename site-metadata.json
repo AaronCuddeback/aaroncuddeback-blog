@@ -12,12 +12,6 @@
   },
   "footer": {
     "content": "&copy; Aaron Cuddeback All rights reserved.",
-    "links": [
-      {
-        "text": "Home",
-        "url": "https://aaroncuddeback.com",
-        "new_window": true
-      }
-    ]
+    "links": []
   }
 }
