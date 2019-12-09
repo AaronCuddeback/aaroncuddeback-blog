@@ -5,6 +5,7 @@ import _ from 'lodash';
 import {safePrefix} from '../utils';
 import Header from './Header';
 import Footer from './Footer';
+import favicon from "../static/images/favicon.ico";
 
 export default class Body extends React.Component {
     render() {
@@ -21,6 +22,8 @@ export default class Body extends React.Component {
                     _.get(this.props, 'pageContext.frontmatter.canonical_url') && 
                     <link rel="canonical" href={_.get(this.props, 'pageContext.frontmatter.canonical_url')}/>
                     }
+                    link={[ { rel: "shortcut icon", type: "image/ico", href: `${favicon}` }
+  ]}
                 </Helmet>
                 <div id="page" className={'site style-' + _.get(this.props, 'pageContext.site.siteMetadata.layout_style') + ' palette-' + _.get(this.props, 'pageContext.site.siteMetadata.palette')}>
                   <Header {...this.props} />
