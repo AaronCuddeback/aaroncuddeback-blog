@@ -9,7 +9,7 @@
     "bg": "dark",
     "has_nav": true,
     "has_social": true,
-    "icon": "/images/favicon.png"
+    "icon": "/images/favicon.ico"
   },
   "footer": {
     "content": "&copy; <a href=\"https://aaroncuddeback.com\">Aaron Cuddeback</a> All rights reserved.",
