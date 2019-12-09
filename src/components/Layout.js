@@ -22,7 +22,7 @@ export default class Body extends React.Component {
                     _.get(this.props, 'pageContext.frontmatter.canonical_url') && 
                     <link rel="canonical" href={_.get(this.props, 'pageContext.frontmatter.canonical_url')}/>
                     }
-                    link={[ { rel: "shortcut icon", type: "image/png", href: `${favicon}` }
+                    link={[ { rel: "icon", type: "image/png", sizes: "48x48", href: `${favicon}` }
   ]}
                 </Helmet>
                 <div id="page" className={'site style-' + _.get(this.props, 'pageContext.site.siteMetadata.layout_style') + ' palette-' + _.get(this.props, 'pageContext.site.siteMetadata.palette')}>
