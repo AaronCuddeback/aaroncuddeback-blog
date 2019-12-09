@@ -24,7 +24,7 @@ sections:
     title: About
     type: contentblock
   - actions:
-      - label: View Blog
+      - label: Read More
         url: blog/index.html
     component: PostsBlock
     num_posts_displayed: 4
