@@ -8,12 +8,12 @@ menus:
     weight: 4
 template: page
 ---
-**Aaron Cuddeback** is a Senior Art Director from Sacramento, CA. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+**Aaron Cuddeback** is a Software Engineer from Sacramento, CA. After graduating from Western Governors University  with a degree in Software Development, he has worked as a web developer for [UrbanRise Designs](https://urbanrisedesigns.com).
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+He has designed and built multiple e-commerce websites, service oriented websites as well as brochure websites since graduating.  
 
 > The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+As a hobby, Aaron has a passion for woodworking, anything tech related and spends time with his wonderful wife and two daughters.
 
-_Thank You for reading!_
+*Thank You for reading!*
